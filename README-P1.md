@@ -36,20 +36,20 @@ To do this, count the number of times a depth measurement increases from the pre
 263 (increased)
 ```
 
-In this example, there are 7 measurements that are larger than the previous measurement.
+In this example, there are `7` measurements that are larger than the previous measurement.
 
-## QUESTION.
+## QUESTION
 
 How many measurements are larger than the previous measurement?
+
+Please see `./input.txt` file as input params to solve this challenge.
 
 ## ANSWER
 
 1692
 
-## Few things to note,
+## Few things for a candidate to note,
 
-- build tests cases
-- can google
-- ask questions
-- don't worry :D
-- don't use any external libs
+- Try to build tests cases
+- Can google
+- Ask questions
